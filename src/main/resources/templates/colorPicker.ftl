@@ -1,6 +1,4 @@
 <div class="form-cell" ${elementMetaData!}>
-
-	<script type="text/javascript" src="${request.contextPath}/plugin/org.joget.ColorPicker/js/jqueryLibrary.js"></script>
     <script type="text/javascript" src="${request.contextPath}/plugin/org.joget.ColorPicker/js/colorpicker.js"></script>
  	<link rel="stylesheet" href="${request.contextPath}/plugin/org.joget.ColorPicker/css/colpick.css">
  	
