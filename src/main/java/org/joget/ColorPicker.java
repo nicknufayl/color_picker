@@ -18,7 +18,7 @@ public class ColorPicker extends TextField {
 
     @Override
     public String getVersion() {
-        return "8.0";
+        return "8.0.0";
     }
 
     @Override
