@@ -13,7 +13,7 @@ public class ColorPicker extends TextField {
 
     @Override
     public String getName() {
-        return "Color Picker Field";
+        return "Color Picker";
     }
 
     @Override
@@ -23,7 +23,7 @@ public class ColorPicker extends TextField {
 
     @Override
     public String getDescription() {
-        return "Color Picker Field Element";
+        return "Color Picker Field";
     }
 
     @Override
